@@ -126,7 +126,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/kevinnog/next-level-week-1/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/kevinnog/next-level-week-1/blob/master/LICENSE) for details.
 
 Made Kevin Nogueira :wave: [Get in touch!](https://www.linkedin.com/in/kevin-nogueira-costa-403536104/)
 
