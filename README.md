@@ -58,7 +58,7 @@ From your command line:
 $ git clone https://github.com/kevinnog/next-level-week-1
 
 # Go into the repository
-$ cd next-level-week-1/backend
+$ cd next-level-week-1/server
 
 # Install dependencies
 $ yarn install
@@ -82,7 +82,7 @@ $ yarn dev
 $ git clone https://github.com/kevinnog/next-level-week-1
 
 # Go into the repository
-$ cd next-level-week-1/frontent
+$ cd next-level-week-1/web
 
 # Install dependencies
 $ yarn install
