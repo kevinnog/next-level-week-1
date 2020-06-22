@@ -1,8 +1,6 @@
 import { Request, Response } from "express";
 import knex from "../database/connection";
 
-require("dotenv");
-
 class PointsController {
   async index(request: Request, response: Response) {
     // const items = await knex('points').select('*');
